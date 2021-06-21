@@ -1,4 +1,2 @@
-# Maharashtra
 <html>
   </html>
-  
